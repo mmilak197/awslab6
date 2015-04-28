@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 aws-sqs-sample
 ==============
 
@@ -14,3 +15,6 @@ Usage:
 - recv - receive a single message from queue
 - help - display help
 
+=======
+# awslab6
+>>>>>>> 59f422470e1cdabfe4406b6be36dacb4ae77e073
